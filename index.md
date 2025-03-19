@@ -10,3 +10,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Hi!
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
